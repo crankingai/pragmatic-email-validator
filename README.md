@@ -4,6 +4,9 @@ Validates an email address meets pragmatic format and length expectations. By de
 
 Does not attempt to verify associated inbox.
 
+>[!NOTE]
+>Google Gemini Pro 3 AI contributed to this document.
+
 ## 🧐 How this differs from RFC compliance
 
 Strict RFC 5322 compliance is practically useless for modern web applications. 
